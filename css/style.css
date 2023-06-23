@@ -28,3 +28,14 @@
 .bg_watergreen {
     background-color: #1abc9c;
 }
+
+.form-floating>.textarea_h {
+    height: 150px;
+}
+
+.form_b_reset {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+}
